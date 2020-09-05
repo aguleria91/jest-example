@@ -1,0 +1,14 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "A test setup of jest with unit and integeration testing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "aditya@ksdacllp.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
